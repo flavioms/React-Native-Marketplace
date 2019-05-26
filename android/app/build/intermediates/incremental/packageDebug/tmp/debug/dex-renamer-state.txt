@@ -1,0 +1,4 @@
+#Sat May 25 19:11:03 BRT 2019
+base.0=C\:\\Users\\Flavio\\Documents\\GitHub\\nativeMarketplace\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
